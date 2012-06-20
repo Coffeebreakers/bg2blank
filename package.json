@@ -1,0 +1,9 @@
+{
+    "name": "bg2blank", 
+    "fullName": "bg2blank", 
+    "description": "add-on que insere uma imagem de background no about:blank e about:home",
+    "author": "Rafael Lazarini", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "version": "0.3", 
+    "id": "jid0-91KbulopUb8TMRIFUaT5EoWr10M"
+}

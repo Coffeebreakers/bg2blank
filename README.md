@@ -1,4 +1,5 @@
-bg2blank
-========
+This is the bg2blank add-on.  It contains:
 
-Add-on do firefox para alterar o background de novas abas do firefox
+* A program (lib/main.js).
+* A few tests.
+* Some meager documentation.
